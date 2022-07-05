@@ -2,7 +2,7 @@
 An Embedded system project, we use "Embedded C" as lanuage and "Eclipse IDE For Embedded C/C++" for debuging   
 
 ## This Project was made by: 
-### Abdul-Rahman Ahmed, and Fatma Adel
+### Abdelrhman Ahmed, and Fatma Adel
 
 ## Discription 
 We have 2 senders, 1 reciever, and Queue. We send masseges to Queue and count the number of failed and success sending
